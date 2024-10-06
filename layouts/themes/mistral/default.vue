@@ -89,5 +89,10 @@ const isTocEnabled =
         @apply no-underline ;
     }
 }
+.margin-image {
+  float: right;
+  max-width: fit-content;
+  margin-top: 0;
+}
 
 </style>
